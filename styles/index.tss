@@ -1,0 +1,14 @@
+"#index": {
+	backgroundColor:"#123456",
+ 	exitOnClose:true,  
+ 	navBarHidden:true 
+},
+"#boxInfos":{
+	top:180,
+	height:250
+	
+},
+"#name":{
+	font: {fontFamily: "Open Sans", fontSize: "20"},
+	
+}

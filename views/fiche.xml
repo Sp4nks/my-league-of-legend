@@ -1,0 +1,5 @@
+<Alloy>  
+	<Window title="Categories">  
+		<TableView id="table" onclick="openDetail"></TableView>  
+ 	</Window>  
+</Alloy>  

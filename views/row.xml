@@ -1,0 +1,6 @@
+<Alloy>  
+	<TableViewRow>  
+  		<ImageView id="icon"></ImageView>>  
+		<Label id="catID"></Label>
+	</TableViewRow>  
+</Alloy>

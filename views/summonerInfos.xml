@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="storybox" onClick="openFiche">
+    	<ImageView id="summonerIcon"/>
+        <Label id="name"></Label>
+        <Label id="level"></Label>
+    </Window>
+</Alloy>

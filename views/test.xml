@@ -1,0 +1,7 @@
+<Alloy>
+    <View id="homeHolder">
+        <View id="header"></View>
+        <View id="content"></View>
+        <View id="footer"></View>
+    </View>
+</Alloy>

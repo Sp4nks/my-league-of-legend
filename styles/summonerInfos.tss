@@ -1,0 +1,26 @@
+"#summonerIcon":{
+	top:25,
+	left:20,
+	width:50,
+	height:50
+},
+"#storybox":{
+	backgroundColor:"#8EA2C6",
+	width:250,
+	height:100
+},
+"#name":{
+	color:"black",
+	 font: {
+        fontSize: '16dp',
+        fontWeight: 'bold'    
+    },
+},
+"#level":{
+	top:60,
+	color:"black",
+	 font: {
+        fontSize: '16dp',
+        fontWeight: 'bold'    
+    },
+}

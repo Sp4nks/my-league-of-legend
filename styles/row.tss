@@ -1,0 +1,18 @@
+"#icon":{  
+ left:0,  
+ height:50,  
+ width:50  
+}  
+  
+"TableViewRow":{  
+ layout:"horizontal"  
+}  
+  
+"Label":{  
+ color:'#000',  
+ font:{  
+  fontFamily:"Ariel",  
+  fontSize:'20dp',  
+  fontWeight:'bold'  
+ }  
+}  

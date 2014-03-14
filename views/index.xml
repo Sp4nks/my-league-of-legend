@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="index" fullscreen="true" onOpen="doOpen">
+        <Menu id="menu" platform="android">
+            <MenuItem id="menuItem" title="Quitter" onClick="closeme" showAsAction="Ti.Android.SHOW_AS_ACTION_IF_ROOM" />
+        </Menu>
+		<View id="boxInfos" />
+	</Window>
+</Alloy>

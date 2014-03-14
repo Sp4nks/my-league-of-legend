@@ -1,5 +1,0 @@
-<Alloy>
-	<Window class="container">
-		<Label id="test">League of legends API</Label>
-	</Window>
-</Alloy>

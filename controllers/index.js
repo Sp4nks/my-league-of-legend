@@ -72,7 +72,6 @@ function ajax(args) {
 	xhr.onload = function() {
 		//console.log('Le JSON non parse est ='+this.responseText);
 	    var obj = JSON.parse(this.responseText);
-		console.log('Le JSON reçu est ='+obj[args].name);
 		var id = obj[args].id;
 		var name = obj[args].name;
 		var profileIconId = obj[args].profileIconId;

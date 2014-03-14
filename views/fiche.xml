@@ -1,5 +1,5 @@
 <Alloy>  
 	<Window title="Categories">  
-		<TableView id="table" onclick="openDetail"></TableView>  
+		<TableView id="table" />
  	</Window>  
 </Alloy>  
